@@ -1,0 +1,14 @@
+---
+title: "My Portfolio"
+output: html_document
+---
+
+Hello, my name is Sk Saqlain Ali. I am currently pursuing my Masters in Computer Science at Iowa State University. I am interested in Data Science. To know more about me and the projects that I have done visit the following links:
+
+LinkedIn: https://www.linkedin.com/in/sksaqlainali/
+
+Github: https://github.com/Saqlainrocks7
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
